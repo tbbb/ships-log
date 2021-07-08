@@ -13,29 +13,29 @@
   "author": "Alex Atallah <alex.atallah@opensea.io>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ProjectOpenSea/ships-log.git"
+    "url": "https://github.com/tbbb/ships-log.git"
   },
   "dependencies": {
-    "babel-eslint": "^7.2.3",
-    "bignumber.js": "^8.0.1",
-    "bootstrap": "^4.1.3",
-    "eslint-config-airbnb": "^17.0.0",
-    "moment": "^2.22.2",
-    "opensea-js": "latest",
-    "portis": "^1.3.4",
-    "prop-types": "^15.6.2",
-    "react": "^16.4.1",
-    "react-dom": "^16.4.1",
-    "react-icons-kit": "^1.1.7",
-    "styled-components": "^3.3.3",
-    "web3": "^1.0.0-beta.36"
+    "@babel/eslint-parser": "^7.14.7",
+    "bignumber.js": "^9.0.1",
+    "bootstrap": "^5.0.2",
+    "eslint-config-airbnb": "^18.2.1",
+    "moment": "^2.29.1",
+    "opensea-js": "1.1.11",
+    "portis": "^1.3.5",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-icons-kit": "^1.3.1",
+    "styled-components": "^5.3.0",
+    "web3": "^1.4.0"
   },
   "devDependencies": {
-    "eslint": "^4.19.1",
-    "eslint-plugin-import": "^2.13.0",
-    "eslint-plugin-jsx-a11y": "^5.1.1",
-    "eslint-plugin-react": "^7.10.0",
-    "react-scripts": "^2.0.0-next.a671462c"
+    "eslint": "^7.30.0",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.24.0",
+    "react-scripts": "^4.0.3"
   },
   "license": "MIT",
   "browserslist": {
